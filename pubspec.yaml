@@ -1,7 +1,7 @@
 name: dynamic_image_provider
 description: DynamicImageBuilder is a Flutter package that allows you to fetch and display the favicon of a website.
 
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/jasimameen/dynamic_image_provider
 documentation:
 
